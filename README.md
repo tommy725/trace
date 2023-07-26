@@ -12,7 +12,7 @@ Building for iOS works just fine, but I'm not giving Apple $99 to put this on th
 <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/coin_stats.gif" width="49%"> <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/timeline_breakdown.gif" width="49%">
 
 ### Features
-💰 Portfolio Overview  
+💰 Portfolio Overview   
 🌎 Aggregate Market Explorer  
 📊 Detailed Aggregate/Exchange Specific Market Data for every Coin   
 📈 Portfolio Timeline  

@@ -14,7 +14,7 @@ Building for iOS works just fine, but I'm not giving Apple $99 to put this on th
 ### Features
 💰 Portfolio Overview  
 🌎 Aggregate Market Explorer  
-📊 Detailed Aggregate/Exchange Specific Market Data for every Coin  
+📊 Detailed Aggregate/Exchange Specific Market Data for every Coin   
 📈 Portfolio Timeline  
 📅 Transaction History  
 ⭕️ Portfolio Breakdown  
